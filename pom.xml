@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.175.213:8081/repository/mavewebapppaypal/url>
+	      <url>http://3.145.175.213:8081/repository/maven-releases/url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.175.213:8081/repository/mavenwedappapypal/</url>
+	      <url>http://3.145.175.213:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
